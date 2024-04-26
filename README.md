@@ -34,3 +34,5 @@ För VG:
 - Bättre struktur på mock-objekten
 - Kunna strukturera dina tester och visa på god förståelse i testerna.
 - Ha code coverage på över 90%
+
+//Jag råkade skapa en egen reop istället för medieinstitutets
